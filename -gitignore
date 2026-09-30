@@ -1,0 +1,14 @@
+# Godot-specific overrides
+.godot/
+
+# Mono/C# specific ignores
+.mono/
+data_*/
+mono_crash*.log
+
+# MSBuild / Visual Studio build artifacts
+**/bin/
+**/obj/
+.vs/
+*.sln
+*.csproj

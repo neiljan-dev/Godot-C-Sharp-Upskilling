@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqj8sbqufbyxn"
-path="res://.godot/imported/Red Brick Wall PNG Images,  Brick Wall, Brick, Red PNG Transparent Background - Pngtree.jpg-38ed5429a08a870dad9448bd2e6c59a8.ctex"
+uid="uid://cjaf2b58m2rc4"
+path="res://.godot/imported/Box.png-029e380f7996de360779b8755098dc02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Red Brick Wall PNG Images,  Brick Wall, Brick, Red PNG Transparent Background - Pngtree.jpg"
-dest_files=["res://.godot/imported/Red Brick Wall PNG Images,  Brick Wall, Brick, Red PNG Transparent Background - Pngtree.jpg-38ed5429a08a870dad9448bd2e6c59a8.ctex"]
+source_file="res://Box.png"
+dest_files=["res://.godot/imported/Box.png-029e380f7996de360779b8755098dc02.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnc56wka5w1pd"
-path="res://.godot/imported/meowl-cat-removebg-preview.png-55467e3cbb0aa68b6f21d82034f00910.ctex"
+uid="uid://dqj8sbqufbyxn"
+path="res://.godot/imported/Wall.jpg-5d4b13ff3fd75679affe132700b7a146.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://meowl-cat-removebg-preview.png"
-dest_files=["res://.godot/imported/meowl-cat-removebg-preview.png-55467e3cbb0aa68b6f21d82034f00910.ctex"]
+source_file="res://Wall.jpg"
+dest_files=["res://.godot/imported/Wall.jpg-5d4b13ff3fd75679affe132700b7a146.ctex"]
 
 [params]
 
