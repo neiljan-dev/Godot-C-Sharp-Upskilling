@@ -4,7 +4,6 @@ Sept 30 - Oct 1, 2026
 
 Basic Movements (Up, Down, Left, Right)
 ➤  Class Declaration:
-public partial class PlayerMovement : CharacterBody2D
 
 
 public → accessible outside the class.
@@ -13,21 +12,19 @@ CharacterBody2D → inherits movement and collision behavior from Godot’s buil
 
 
 ➤  Exported Variable                                                                                                                                         
-[Export] public float Speed = 200f;
+
 [Export] → makes the variable editable in the Godot Inspector.                                                                                                     
 200f → default value (the f suffix marks it as a float).
 
 
 ➤  Physics Process Method                                                                                                         
-public override void _PhysicsProcess(double delta)
-override → replaces the parent class’s version of _PhysicsProcess.                                                            
-void → method returns nothing.                                                                             
+                                                                                                                         
 _PhysicsProcess → runs every physics frame (fixed timestep).                                                     
 double delta → time in seconds since the last physics frame; used for frame‑rate independent movement.
 
 
-➤  Vector Direction                                                                                                                                  
-Vector2 direction = Vector2.Zero;
+➤  Vector Direction
+
 Vector2 → a structure that holds two values: X and Y.                                                                             
 direction → variable used to store player input direction.  (variable)                                                            
 Vector2.Zero → initializes the vector to (0,0) (no movement).
@@ -99,3 +96,5 @@ CharacterBody2D
 CollisionShape2D
 CollisionPolygon2D
 StaticBody2D
+Area2D
+TileMapLayer
