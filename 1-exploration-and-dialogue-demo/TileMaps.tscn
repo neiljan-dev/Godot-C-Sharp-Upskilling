@@ -1344,3 +1344,5 @@ limit_left = 0
 limit_top = 0
 limit_right = 1133
 limit_bottom = 643
+
+[node name="Node2D" type="Node2D" parent="." unique_id=1123617664]
